@@ -1,4 +1,4 @@
-# Maze Planet — Robot Maze Video Game
+# Maze Planet: Robot Maze Video Game
 
 A maze-based video game developed in **C++** using Microsoft Visual Studio. Players control a robot navigating through a maze to locate hidden treasure while avoiding a pursuing monster.
 
