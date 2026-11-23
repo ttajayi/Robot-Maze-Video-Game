@@ -163,13 +163,6 @@ void move_monster(int &monster_row, int &monster_column, int robot_row, int robo
 
 
 
-
-
-// THE PART THATS GIVING ME HELL!!!!!!!!!!!
-
-
-
-
 void filled_square(int x, int y, int s, int which) 
 {
     if (which == 0) 
